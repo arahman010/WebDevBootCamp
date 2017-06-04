@@ -1,5 +1,10 @@
 h1 {
 	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: dashed 5px purple;
 }
 
 li {
@@ -7,5 +12,12 @@ li {
 }
 
 h4 {
-	color: purple;
+	color: purple ;
+}
+
+body {
+	/*background: url(http://smashingyolo.com/wp-content/uploads/2014/05/Best-Website-Background-Images10.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	background: pink;
 }
