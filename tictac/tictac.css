@@ -1,0 +1,41 @@
+h1 {
+	text-align: center;
+}
+
+html, body {
+    width: 100%;
+}
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+
+
+td {
+	border-style: solid;
+	border-color: black;
+	border-width: 0px 0px 0px 0px;
+	padding: 40px;
+}
+
+#t1 {
+	border-width: 0px 1px 1px 0px;
+}
+
+#t3 {
+	border-width: 0px 0px 1px 1px;
+}
+
+#t5 {
+	border-width: 1px 1px 1px 1px;
+}
+
+#t7 {
+	border-width: 1px 1px 0px 0px;
+}
+
+#t9 {
+	border-width: 1px 0px 0px 1px;
+}
