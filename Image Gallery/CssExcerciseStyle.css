@@ -1,0 +1,31 @@
+body {
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	border: 15px solid #bdc3c7;
+	padding: 10px;	
+}
+
+
+p:nth-of-type(2),p:nth-of-type(6){
+	border-left: 5px solid #bdc3c7;
+	padding-left: 3px;
+}
+
+.Date{
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 1px;
+}
+
+h2 {
+	color: #2C3E50;
+}
+
+
+hr.style {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
